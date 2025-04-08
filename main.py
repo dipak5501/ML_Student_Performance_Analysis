@@ -1,6 +1,6 @@
 
 # ML_Student_Performance_Analysis
-# This script demonstrates usage of Pandas, NumPy, Matplotlib, and Scikit-learn on a student performance dataset.
+
 
 import pandas as pd
 import numpy as np
